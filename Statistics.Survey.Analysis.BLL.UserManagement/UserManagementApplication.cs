@@ -1,5 +1,4 @@
 ﻿using Statistics.Survey.Analysis.BLL.Base;
-using Statistics.Survey.Analysis.Domain.Survey.Request;
 using Statistics.Survey.Analysis.Domain.UserManagment.Request;
 using Statistics.Survey.Analysis.Domain.UserManagment.Response;
 using Statistics.Survey.Analysis.Repository.UserManagment;
